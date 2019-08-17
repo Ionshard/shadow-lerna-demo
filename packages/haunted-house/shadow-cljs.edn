@@ -1,0 +1,14 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src/dev"
+  "src/main"
+  "src/test"]
+
+ :dependencies
+ []
+
+ :builds
+ {:script
+  {:target :node-script
+   :main haunted-house.core/main
+   :output-to "out/haunted-house.js"}}}

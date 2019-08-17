@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.3",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "jump-scare-component": "1.0.0"
   },
   "devDependencies": {

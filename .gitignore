@@ -1,1 +1,3 @@
 node_modules/
+#Not usual, but this repo is about testing hoist vs no-hoist
+package-lock.json
